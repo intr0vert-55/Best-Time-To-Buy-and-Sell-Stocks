@@ -90,11 +90,11 @@ class Solution {
 }
 
 
-// This might actually be more complicated than the other's solutions.
+// This might actually be more complicated than other's solutions.
 // But it is made without using any recursive function if that could feel more complicated.
 // This is question number 122 (Best Time to Buy and Sell Stocks ii) in leetcode.
 // It gets executed with a run time of 2ms and takes a memory of 45.67MB.
-// The concept/algorithm is used here is the concept used by GeeksForGeeks.
+// The concept/algorithm used here is the concept used by GeeksForGeeks.
 // Thanks to them for that.
 // The link to that explanation is in the link below : 
 // https://youtu.be/JaosdXkUWTs?si=DNXh4u89m1GBp94Z
